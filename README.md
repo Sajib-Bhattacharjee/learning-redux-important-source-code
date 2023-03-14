@@ -10,8 +10,11 @@ Learning Redux.js.
 When I was learning Redux.js then to make the learning process more accessible, I divided the
 codes of each topic into a part and edited them here so that I could easily 
 understand each case and the learning process is much easier. So, 
-You can benefit from it and your learning process can be easier.
+You can benefit from it and your learning process can be easier. 
 ``` 
+
+<div align="center">
+
 ### `Created By-->`
 
 **`-Sajib Bhattacharjee`**
@@ -19,3 +22,4 @@ You can benefit from it and your learning process can be easier.
 **`Dedicated for 💕"Zahan" 💕`**
 
 > > ### Thanks A Lot For Visiting...!!!
+</div>
